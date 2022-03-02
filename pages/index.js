@@ -16,7 +16,7 @@ import { Alert } from 'react-bootstrap';
     <div className={styles.Form}>
     <div className={styles.sevendivs}>
 <div className={styles.Formheading}>
-  Let's Connect
+  Lets Connect
 </div>
 <div className={styles.namedivs}>
   <div className={styles.firstnamegroup}>
